@@ -8,5 +8,3 @@ Welcome to my GitHub profile. Some info about me:
 - 🤝 Organize: [Amsterdam Golang meetup](https://www.meetup.com/golang-amsterdam)
 - 🌎 Profiles: [Linkedin](https://www.linkedin.com/in/erikdubbelboer/)
 - 📫 Contact: [erik@dubbelboer.com](mailto:erik@dubbelboer.com)
-
-![Erik's github stats](https://github-readme-stats.vercel.app/api?username=erikdubbelboer&show_icons=true&custom_title=Erik%27s%20GitHub%20Stats:)
